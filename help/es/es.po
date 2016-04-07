@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: california master\n"
-"POT-Creation-Date: 2016-04-03 15:13+0000\n"
-"PO-Revision-Date: 2016-04-04 09:47+0200\n"
+"POT-Creation-Date: 2016-04-04 15:13+0000\n"
+"PO-Revision-Date: 2016-04-07 09:07+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -854,6 +854,9 @@ msgid ""
 "<app>California</app> will use the information that you have entered to "
 "create the event on your calendar."
 msgstr ""
+"Después de haber introducido los detalles del evento, pulse <gui>Crear</"
+"gui>. <app>California</app> usará la información que introduzca para crear "
+"el evento en su calendario."
 
 #. (itstool) path: note/p
 #: C/cal-event-quick-add.page:84
@@ -863,6 +866,11 @@ msgid ""
 "additional details. See the <link href=\"cal-event-edit.page\">Edit an "
 "Event</link> page for more information about editing events."
 msgstr ""
+"De manera predeterminada, la característica <em>Agregar rápidamente</em> "
+"creará eventos que duren una hora. Tal vez quiera ajustar la duración del "
+"evento o añadir detalles adicionales. Consulte la página <link href=\"cal-"
+"event-edit.page\">Editar un evento</link> para obtener mas información "
+"acerca de la edición de eventos."
 
 #. (itstool) path: info/desc
 #: C/cal-event-remove.page:7
@@ -877,7 +885,7 @@ msgstr "Eliminar un evento"
 #. (itstool) path: page/p
 #: C/cal-event-remove.page:23
 msgid "This page describes how to remove events from your calendar."
-msgstr ""
+msgstr "Esta página describe cómo eliminar eventos de un calendario."
 
 #. (itstool) path: note/p
 #: C/cal-event-remove.page:25
@@ -885,16 +893,19 @@ msgid ""
 "Removing an event from your calendar is permanent. It is not possible to "
 "restore an event that you have deleted."
 msgstr ""
+"La eliminación de un evento del calendario es permanente. No es posible "
+"restaurar un evento que se ha eliminado."
 
 #. (itstool) path: steps/title
 #: C/cal-event-remove.page:29
 msgid "Here is how to remove an event or a series of recurring events:"
 msgstr ""
+"Aquí se indica cómo eliminar un evento de una serie de eventos recurrentes:"
 
 #. (itstool) path: item/p
 #: C/cal-event-remove.page:31
 msgid "Find the event you want to remove from your calendar."
-msgstr ""
+msgstr "Busque el evento que quiera eliminar del calendario."
 
 #. (itstool) path: item/p
 #: C/cal-event-remove.page:34
@@ -903,6 +914,9 @@ msgid ""
 "repeat, the event will be deleted immediately. If you are deleting a "
 "recurring event, you will have other options:"
 msgstr ""
+"Seleccione <gui>Eliminar</gui>. Si está eliminando un evento de Una sola vez "
+"que no se repite, el evento se eliminará inmediatamente. Si quiere eliminar "
+"un evento recurrente, tendrá otras opciones."
 
 #. (itstool) path: item/p
 #: C/cal-event-remove.page:38
@@ -911,6 +925,9 @@ msgid ""
 "other recurring events in this series, both events from the future and "
 "events from the past, will not be changed."
 msgstr ""
+"<gui>Eliminar éste evento</gui>. Esta acción eliminará solamente éste único "
+"evento. Todas las demás apariciones del evento en esta serie, que suceden en "
+"el futuro y en el pasado no se modificarán."
 
 #. (itstool) path: item/p
 #: C/cal-event-remove.page:42
@@ -919,6 +936,9 @@ msgid ""
 "well as future events in this series. Events that occurred in the past will "
 "not be changed."
 msgstr ""
+"<gui>Eliminar éste y futuros eventos</gui>. Esta acción eliminará éste "
+"evento y también todos los eventos futuros en esta serie. Los eventos que "
+"ocurren en el pasado no se modificarán."
 
 #. (itstool) path: item/p
 #: C/cal-event-remove.page:45
@@ -926,11 +946,13 @@ msgid ""
 "<gui>Delete All Events</gui>. This will delete all events in this series, "
 "including events that occurred in the past."
 msgstr ""
+"<gui>Eliminar todos los eventos</gui>. Esta acción eliminará todos los "
+"eventos de esta serie, incluyendo los eventos que sucedieron en el pasado "
 
 #. (itstool) path: item/p
 #: C/cal-event-remove.page:49
 msgid "If you do not want to remove an event, select <gui>Cancel</gui>."
-msgstr ""
+msgstr "Si no quiere eliminar un evento, seleccione <gui>Cancelar</gui>."
 
 #. (itstool) path: note/p
 #: C/cal-event-remove.page:53
@@ -940,6 +962,11 @@ msgid ""
 "but do not have permission to edit events on your friend's calendar, you "
 "will not be able to delete their events from your view of their calendar."
 msgstr ""
+"No podrá eliminar eventos que sean parte de ciertos proveedores de "
+"calendarios basado en la web. Por ejemplo, si se ha suscrito al calendario "
+"de Google de un amigo pero no tiene los permisos para editar eventos en el "
+"calendario de su amigo, no podrá eliminar aquellos eventos de la vista del "
+"calendario."
 
 #. (itstool) path: note/p
 #: C/cal-event-remove.page:58
@@ -947,16 +974,18 @@ msgid ""
 "If you want to not see certain types of events on your calendar, review how "
 "to <link xref=\"cal-hide-a-calendar\">hide a calendar from view</link>."
 msgstr ""
+"Si no quiere ver ciertos tipos de eventos en su calendario, consulte cómo "
+"<link xref=\"cal-hide-a-calendar\">ocultar un calendario de la vista</link>."
 
 #. (itstool) path: info/desc
 #: C/cal-hide-a-calendar.page:8
 msgid "Simplify your calendar's interface."
-msgstr ""
+msgstr "Simplifica la interface del calendario."
 
 #. (itstool) path: page/title
 #: C/cal-hide-a-calendar.page:20
 msgid "Hide a Calendar From View"
-msgstr ""
+msgstr "Ocultar un calendario de la vista"
 
 #. (itstool) path: page/p
 #: C/cal-hide-a-calendar.page:22
@@ -964,6 +993,8 @@ msgid ""
 "If you keep track of more than one calendar, your calendar may get cluttered "
 "with events. This can make it hard to read your calendar."
 msgstr ""
+"Si hace el seguimiento de más de un calendario, su calendario puede estar "
+"abarrotado de eventos. Esto puede hacer difícil la lectura del calendario."
 
 #. (itstool) path: page/p
 #: C/cal-hide-a-calendar.page:25
@@ -973,11 +1004,15 @@ msgid ""
 "view, but it will not delete the calendar, and all of the calendar's events "
 "will remain intact."
 msgstr ""
+"Si quiere hacer mas fácil de ver solamente ciertos tipos de eventos, puede "
+"<em>Ocultar un calendario</em>. Esto quitará temporalmente el calendario de "
+"la vista, pero no eliminará el calendario, y todos los eventos del "
+"calendario permanecerán intactos."
 
 #. (itstool) path: steps/title
 #: C/cal-hide-a-calendar.page:31
 msgid "Hide a Calendar From View:"
-msgstr ""
+msgstr "Ocultar un calendario de la vista:"
 
 #. (itstool) path: item/p
 #: C/cal-hide-a-calendar.page:32
@@ -986,16 +1021,19 @@ msgid ""
 "<app>California's</app> menu bar. A list of your current calendars will "
 "appear in a new window."
 msgstr ""
+"Pulse en el icono <gui>Calendario</gui> en la parte superior derecha de la "
+"barra de menú de <app>California</app>. Aparecerá una lista de los "
+"calendarios actuales en una nueva ventana."
 
 #. (itstool) path: item/p
 #: C/cal-hide-a-calendar.page:35
 msgid "Identify the calendar that you want to hide."
-msgstr ""
+msgstr "Identifique el calendario que quiere ocultar."
 
 #. (itstool) path: item/p
 #: C/cal-hide-a-calendar.page:36
 msgid "Unmark the check box next to the calendar that you wish to hide."
-msgstr ""
+msgstr "Desmarque la casilla junto al calendario que quiere ocultar."
 
 #. (itstool) path: item/p
 #: C/cal-hide-a-calendar.page:38
