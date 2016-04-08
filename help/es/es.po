@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: california master\n"
-"POT-Creation-Date: 2016-04-04 15:13+0000\n"
-"PO-Revision-Date: 2016-04-07 09:07+0200\n"
+"POT-Creation-Date: 2016-04-07 15:13+0000\n"
+"PO-Revision-Date: 2016-04-08 16:20+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -527,7 +527,7 @@ msgid ""
 "Select the <gui>Clock</gui> icon next to the event's time. A new window will "
 "appear."
 msgstr ""
-"Seleccione el ícono del <gui>Reloj</gui> junto a la hora del evento. "
+"Seleccione el icono del <gui>Reloj</gui> junto a la hora del evento. "
 "Aparecerá una nueva ventana."
 
 #. (itstool) path: item/p
@@ -1051,6 +1051,8 @@ msgid ""
 "To make a calendar visible again, complete the same steps, but <em>check the "
 "box</em> next to the calendar that you want to see."
 msgstr ""
+"Para hacer un calendario visible otra vez, complete los mismos pasos, pero "
+"<em>marque la casilla</em> junto al calendario que quiere ver."
 
 #. (itstool) path: p/gui
 #: C/cal-open-calendar-list.xml:2
@@ -1068,6 +1070,9 @@ msgid ""
 "Select the <_:gui-1/> icon in the upper-right portion of <_:app-2/> menu "
 "bar. A list of your current calendars will appear in a new window."
 msgstr ""
+"Seleccione el icono <_:gui-1/> en la parte superior derecha de la barra de "
+"menú <_:app-2/>. Una lista de los calendarios actuales aparecerá en una "
+"nueva ventana."
 
 #. (itstool) path: p/gui
 #: C/cal-open-calendar-list.xml:5
@@ -1110,6 +1115,9 @@ msgid ""
 "desktop. Once <app>California</app> launches, you can start using it right "
 "away."
 msgstr ""
+"<app>California</app>es una aplicación de calendario moderna para el "
+"escritorio GNOME. Una vez que lanza <app>California</app> puede empezar a "
+"usarlo de inmediato."
 
 #. (itstool) path: page/p
 #: C/cal-quickstart.page:26
@@ -1119,6 +1127,11 @@ msgid ""
 "xref=\"cal-event-quick-add\">Quick Add</link> help page, as it will show you "
 "how to add both one-time and recurring events to your calendar."
 msgstr ""
+"Para agregar un nuevo evento, pulse en el icono <gui>Más</gui> en la barra "
+"de tareas de <app>California</app>. Puede encontrar útil consultar la página "
+"de ayuda <link xref=\"cal-event-quick-add\">Agregar rápidamente</link>, ya "
+"que le mostrará como agregar eventos de una sola vez y eventos recurrentes a "
+"su calendario."
 
 #. (itstool) path: page/p
 #: C/cal-quickstart.page:31
@@ -1127,6 +1140,9 @@ msgid ""
 "assistance with performing additional tasks, explore <link xref=\"index"
 "\">the other portions</link> of the <app>California</app> help."
 msgstr ""
+"Para aprender acerca de las características adicionales de <app>California</"
+"app> y conseguir asistencia para realizar tareas adicionales, explore <link "
+"xref=\"index\">las otras partes de la ayuda</link> de <app>California</app>."
 
 #. (itstool) path: info/desc
 #: C/cal-remove-calendar.page.stub:7
@@ -1141,7 +1157,7 @@ msgstr "Quitar un calendario"
 #. (itstool) path: page/p
 #: C/cal-remove-calendar.page.stub:23
 msgid "In some cases, you may decide that you no longer want to store or track"
-msgstr ""
+msgstr "En algunos casos puede decidir que no quiere mas almacenar o seguirlo."
 
 #. (itstool) path: info/desc
 #: C/cal-rename-calendar.page:7
@@ -1166,6 +1182,10 @@ msgid ""
 "<app>California's</app> menu bar, or press <keyseq><key>Ctrl</key> <key>L</"
 "key></keyseq>. A list of your current calendars will appear in a new window."
 msgstr ""
+"Seleccione el icono del <gui>Calendario</gui> en la parte superior derecha "
+"de la barra de menú de <app>California</app> o pulse <keyseq><key>Ctrl</key> "
+"<key>L</key></keyseq>. Una lista de sus calendarios actuales aparecerá en "
+"una nueva ventana."
 
 #. (itstool) path: item/p
 #: C/cal-rename-calendar.page:30
@@ -1183,6 +1203,8 @@ msgid ""
 "Select <gui>Close</gui>. The name of your calendar will be updated "
 "immediately."
 msgstr ""
+"Seleccione <gui>Cerrar</gui>. El nombre del calendario se actualizará "
+"inmediatamente."
 
 #. (itstool) path: info/desc
 #: C/cal-shortcut-keys.page:8
@@ -1201,6 +1223,9 @@ msgid ""
 "the mouse and menus. The following table lists all of <app>California's</"
 "app> shortcut keys."
 msgstr ""
+"Use <gui>Los atajos del teclado</gui> para realizar tareas comunes mas "
+"rápidamente que con el ratón y los menúes. La tabla siguiente lista todos "
+"los atajos del teclado de <app>California</app>."
 
 #. (itstool) path: table/title
 #: C/cal-shortcut-keys.page:35
@@ -1307,7 +1332,7 @@ msgstr "California"
 #. (itstool) path: page/title
 #: C/index.page:23
 msgid "<_:media-1/> California Calendar Help"
-msgstr ""
+msgstr "<_:media-1> Ayuda del calendario California"
 
 #. (itstool) path: page/p
 #: C/index.page:28
@@ -1318,6 +1343,11 @@ msgid ""
 "\">Introduction</link> and <link xref=\"cal-shortcut-keys\">Shortcut Keys</"
 "link> pages."
 msgstr ""
+"Bienvenido a la guía de ayuda de <app>California</app>. Para una "
+"introducción rápida tanto en las características básicas como en las "
+"avanzadas de atajos del teclado, visite las páginas <link xref=\"cal-"
+"quickstart\">Introducción</link> y <link xref=\"cal-shortcut-keys\">Atajos "
+"del teclado</link>."
 
 #. (itstool) path: page/p
 #: C/index.page:34
@@ -1325,8 +1355,8 @@ msgid ""
 "Other help topics are grouped together into sections below. Enjoy using "
 "<app>California</app>!"
 msgstr ""
-"Otros temas de ayuda están agrupados las secciones de abajo. Disfrute usando "
-"<app>California</app>!"
+"Hay otros temas de ayuda agrupados en las secciones de abajo. Disfrute "
+"usando <app>California</app>."
 
 #. (itstool) path: section/title
 #: C/index.page:38
@@ -1361,3 +1391,7 @@ msgid ""
 "a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, "
 "California, 94041, USA."
 msgstr ""
+"Este trabajo está licenciado bajo la de Creative Commons compartir-igual de "
+"atribución 3.0 sin soporte. Para ver una copia de esta licencia visite <_:"
+"link-1/> o envíe una carta a Creative Commons, 444 Castro Street, Suite 900, "
+"Mountain View, California, 94041, USA."
