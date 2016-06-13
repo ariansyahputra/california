@@ -1,0 +1,1397 @@
+# Spanish translation for california.
+# Copyright (C) 2016 california's COPYRIGHT HOLDER
+# This file is distributed under the same license as the california package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Roberto Jimenez <roberto.jimenez.c93@hotmail.com>, 2016.
+# Alejandro Pedraza <m.a.pedraza@openmailbox.org>, 2016.
+# Daniel Mustieles <daniel.mustieles@gmail.com>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: california master\n"
+"POT-Creation-Date: 2016-05-19 15:10+0000\n"
+"PO-Revision-Date: 2016-04-08 16:20+0200\n"
+"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.6\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr ""
+"Alejandro Pedraza <m.a.pedraza@openmailbox.org>, 2016\n"
+"Roberto Jimenez <roberto.jimenez.c93@hotmail.com>, 2016\n"
+"Daniel Mustieles <daniel.mustieles@gmail.com>, 2016"
+
+#. (itstool) path: info/desc
+#: C/cal-add-calendar.page:8
+msgid "Sync or display web-based calendar feeds."
+msgstr "Sincronizar o mostrar proveedores de calendarios basados en web"
+
+#. (itstool) path: credit/name
+#: C/cal-add-calendar.page:15 C/cal-change-view.page:13
+#: C/cal-event-edit.page:13 C/cal-event-quick-add.page:15
+#: C/cal-event-remove.page:13 C/cal-hide-a-calendar.page:12
+#: C/cal-quickstart.page:12 C/cal-remove-calendar.page.stub:13
+#: C/cal-rename-calendar.page:13 C/cal-shortcut-keys.page:13 C/index.page:14
+msgid "Jim Campbell"
+msgstr "Jim Campbell"
+
+#. (itstool) path: credit/years
+#: C/cal-add-calendar.page:17 C/cal-change-view.page:15
+#: C/cal-event-edit.page:15 C/cal-event-quick-add.page:17
+#: C/cal-event-remove.page:15 C/cal-hide-a-calendar.page:14
+#: C/cal-quickstart.page:14 C/cal-remove-calendar.page.stub:15
+#: C/cal-rename-calendar.page:15 C/cal-shortcut-keys.page:15 C/index.page:16
+msgid "2014"
+msgstr "2014"
+
+#. (itstool) path: page/title
+#: C/cal-add-calendar.page:23
+msgid "Add a Calendar"
+msgstr "Añadir un calendario"
+
+#. (itstool) path: page/p
+#: C/cal-add-calendar.page:25
+msgid ""
+"By default, <app>California</app> includes two calendars: a <em>Personal</"
+"em> calendar and a <em>Birthdays &amp; Anniversaries</em> calendar. You can "
+"add or sync other calendars, as well:"
+msgstr ""
+"De manera predeterminada, <app>California</app> incluye dos calendarios: un "
+"calendario <em>Personal</em>y un calendario de <em>cumpleaños y "
+"aniversarios</em>. También puede agregar o sincronizar otros calendarios:"
+
+#. (itstool) path: section/title
+#: C/cal-add-calendar.page:30
+msgid "Add a Google calendar"
+msgstr "Añadir un calendario de Google"
+
+#. (itstool) path: section/p
+#: C/cal-add-calendar.page:32
+msgid ""
+"Adding a Google calendar to <app>California</app> will both add and "
+"<em>sync</em> the calendar. If you add an event in <app>California</app>, "
+"the event will appear in your Google calendar. Likewise, if you add or edit "
+"an event in your Google calendar, those changes will also be updated in "
+"<app>California</app>."
+msgstr ""
+"Al agregar un calendario de Google a <app>California</app>, hará que el "
+"calendario se agregue y se<em>sincronice</em>. Si agrega un evento en "
+"<app>California</app>, el evento aparecerá en el calendario de Google. De la "
+"misma manera, al agregar o editar un evento en el calendario de Google, el "
+"mismo cambiará y se actualizará en <app>California</app>."
+
+#. (itstool) path: steps/title
+#: C/cal-add-calendar.page:39
+msgid ""
+"Follow these steps to syncronize your Google calendar with <app>California</"
+"app>:"
+msgstr ""
+"Siga estos pasos para sincronizar su calendario de Google con "
+"<app>California</app>:"
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:44
+msgid "Select <gui>Google Calendar</gui> and click <gui>Add</gui>."
+msgstr "Seleccione <gui>Calendario de Google</gui> y pulse <gui>Añadir</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:46
+msgid ""
+"Enter your Google account name and Google password. Click <gui>Login</gui>."
+msgstr ""
+"Introduzca su nombre de cuenta de Google y su contraseña. Pulse en "
+"<gui>Iniciar sesión</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:48
+msgid ""
+"If you have entered the proper credentials, <app>California</app> will "
+"indicate that your account has been authenticated. If you have mis-typed "
+"your Google password, you will need to enter your password again."
+msgstr ""
+"Si ha introducido las credenciales apropiadas, <app>California</app> le "
+"indicará que su cuenta se ha autenticado. Si ha escrito erróneamente su "
+"clave de Google necesitará introducirla nuevamente."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:52
+msgid ""
+"Your default Google account calendar will appear in a window of <gui>My "
+"Calendars</gui>. If you also subscribe to other calendars through your "
+"Google account, those calendars will also appear in a list of <gui>Other "
+"available calendars</gui>."
+msgstr ""
+"Su calendario de la cuenta de Google predeterminada aparecerá en una ventana "
+"de <gui>Mis calendarios</gui>. Si también está suscrito a otros calendarios "
+"a través de su cuenta de Google, esos calendarios aparecerán en una lista de "
+"<gui>Otros calendarios disponibles</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:56
+msgid ""
+"Select all of the calendars that you wish to sync, and select "
+"<gui>Subscribe</gui>."
+msgstr ""
+"Seleccione todos los calendarios que quiere sincronizar y pulse "
+"<gui>Suscribir</gui>."
+
+#. (itstool) path: note/p
+#: C/cal-add-calendar.page:59
+msgid ""
+"You may also be prompted to enter your Google password one additional time. "
+"This will save your password into your computer so that you don't have to "
+"enter it again."
+msgstr ""
+"También se le pedirá que introduzca su contraseña de Google una vez mas. "
+"Esto guardará su clave en su equipo por lo que no necesitará introducirla "
+"nuevamente."
+
+#. (itstool) path: note/p
+#: C/cal-add-calendar.page:62
+msgid ""
+"Your primary Google calendar will fully sync between <app>California</app> "
+"and your Google calendar. However, you may or may not have the proper "
+"permissions for any <gui>Other available calendars</gui> to fully sync "
+"between <app>California</app> and your Google calendars. Consult the <link "
+"href=\"https://support.google.com/calendar/\">Google Calendar Help Center</"
+"link> if you encounter any problems with syncing any of the calendars in "
+"your list of <gui>Other available calendars</gui>."
+msgstr ""
+"Su calendario principal de Google sincronizará en su totalidad con "
+"<app>California</app> Sin embargo puede tener o no los permisos apropiados "
+"para cualquiera de los <gui>Otros calendarios disponibles</gui> para que "
+"sincronice totalmente con <app>California</app> y sus calendarios de Google. "
+"Consulte el enlace <link href=\"https://support.google.com/calendar/"
+"\">Centro de ayuda del calendario de Google</link> si se encuentra con "
+"problemas para sincronizar cualquiera de los calendarios de su lista de "
+"<gui>Otros calendarios disponibles</gui>."
+
+#. (itstool) path: section/title
+#: C/cal-add-calendar.page:73
+msgid "Add a CalDAV calendar"
+msgstr "Añadir un calendario CalDAV"
+
+#. (itstool) path: section/p
+#: C/cal-add-calendar.page:74
+msgid ""
+"<code>CalDAV</code> is an open standard for transmitting and storing "
+"calendar information. It is used by many popular services including the "
+"<app>ownCloud</app> calendar and Apple's <app>iCloud</app> service."
+msgstr ""
+"<code>CalDAV</code> es un estándar abierto para transmisión y almacenamiento "
+"de información de calendarios. Lo usan muchos servicios populares incluyendo "
+"el calendario <app>ownCloud</app> y el servicio de Apple <app>iCloud</app>."
+
+#. (itstool) path: steps/title
+#: C/cal-add-calendar.page:79
+msgid ""
+"Follow these steps to syncronize a <code>CalDAV</code> calendar with "
+"<app>California</app>:"
+msgstr ""
+"Siga estos pasos para sincronizar un calendario <code>CalDAV</code> con "
+"<app>California</app>:"
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:82
+msgid ""
+"Obtain the URL address of the calendar that you wish to add to "
+"<app>California</app>. You will need to get this address from your calendar "
+"provider or from your system administrator."
+msgstr ""
+"Obtenga la dirección URL del calendario que quiere agregar a "
+"<app>California</app>. Necesitará obtener la dirección desde el proveedor de "
+"su calendario o del administrador de su sistema."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:88
+msgid "Select <gui>CalDAV</gui> and click <gui>Add</gui>."
+msgstr "Seleccione <gui>CalDAV</gui> y pulse <gui>Añadir</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:89 C/cal-add-calendar.page:125
+msgid "Enter a calendar name. This can be any name of your choosing."
+msgstr ""
+"Introduzca un nombre de calendario. Este puede ser cualquier nombre a su "
+"elección."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:91 C/cal-add-calendar.page:127
+msgid "Enter the calendar URL address."
+msgstr "Introduzca el URL del calendario."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:92
+msgid ""
+"Enter your the username for your online calendar into the <gui>Username</"
+"gui> field."
+msgstr ""
+"Introduzca su nombre de usuario para su calendario en línea en el campo "
+"<gui>Nombre de usuario</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:94 C/cal-add-calendar.page:130
+msgid "Click <gui>Subscribe</gui>."
+msgstr "Pulse <gui>Suscribir</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:95 C/cal-add-calendar.page:131
+msgid ""
+"If you have entered a username, you may also be prompted to enter a password."
+msgstr ""
+"Si ha introducido un nombre de usuario, es posible que se le solicite una "
+"contraseña."
+
+#. (itstool) path: note/p
+#: C/cal-add-calendar.page:98
+msgid ""
+"Although the <gui>Username</gui> field is listed as <gui>Optional</gui>, "
+"most <app>CalDAV</app> calendars require a username. <app>California</app> "
+"may not be able to display your <app>CalDAV</app> calendar if you do not "
+"enter a valid username."
+msgstr ""
+"Aunque el campo <gui>Nombre de usuario</gui> está listado como<gui>Opcional</"
+"gui>, la mayoría de los calendarios <app>CalDAV</app> requieren un nombre de "
+"usuario. <app>California</app> podría no ser capaz de mostrar su calendario "
+"<app>CalDAV</app> si no ha introducido un nombre de usuario válido."
+
+#. (itstool) path: section/title
+#: C/cal-add-calendar.page:105
+msgid "Display a Web Calendar (.ics or webcal) Feed"
+msgstr "Muestra un proveedor de un Calendario web (.ices o webcal)"
+
+#. (itstool) path: section/p
+#: C/cal-add-calendar.page:107
+msgid ""
+"Adding a Web Calendar (.ics or webcal) feed to <app>California</app> will "
+"allow you to view an online calendar from within <app>California</app>. "
+"Although <app>California</app> will display events from a <app>Web Calendar</"
+"app> feed, you will not be able to change or delete these events."
+msgstr ""
+"Agregar un proveedor de un calendario web (.ics o webcal) a <app>California</"
+"app> le permitirá ver un calendario en línea desde <app>California</app>. "
+"Aunque <app>California</app> mostrará los eventos desde un proveedor de "
+"<app>Calendario web</app>, no podrá cambiar o eliminar esos eventos."
+
+#. (itstool) path: steps/title
+#: C/cal-add-calendar.page:114
+msgid ""
+"Follow these steps to add a <app>Web Calendar (.ics or webcal)</app> feed to "
+"<app>California</app>:"
+msgstr ""
+"Siga estos pasos para añadir un proveedor de un <app>Calendario Web (.ics o "
+"webcal)</app> a <app>California</app>:"
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:117
+msgid ""
+"Obtain the URL address of the calendar feed that you wish to add to "
+"<app>California</app>. The address will end with a \".ics\" extension."
+msgstr ""
+"Obtenga la dirección URL del proveedor del calendario que quiera añadir a "
+"<app>Califormia</app>. La dirección terminará con la extensión \".ics\"."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:123
+msgid ""
+"Select <gui>Web Calendar (.ics or webcal)</gui> and click <gui>Add</gui>."
+msgstr ""
+"Seleccione <gui>Calendario web (.ics o webcal)</gui> y pulse <gui>Añadir</"
+"gui>."
+
+#. (itstool) path: item/p
+#: C/cal-add-calendar.page:128
+msgid ""
+"If required, enter your the username for your web calendar into the "
+"<gui>Username</gui> field."
+msgstr ""
+"Si se le solicita, introduzca su nombre de usuario para su calendario web en "
+"el campo <gui>Nombre de usuario</gui>."
+
+#. (itstool) path: note/p
+#: C/cal-add-calendar.page:135
+msgid ""
+"Most <app>Web Calendar (.ics or webcal)</app> feeds do not require a "
+"password."
+msgstr ""
+"La mayoría de los proveedores de <app>Calendario web (ics. o .webcal)</app> "
+"no requieren una contraseña."
+
+#. (itstool) path: info/desc
+#: C/cal-change-view.page:9
+msgid "Choose a monthly, weekly or daily view of your calendar."
+msgstr "Elija la vista mensual, semanal o diaria de su calendario."
+
+#. (itstool) path: page/title
+#: C/cal-change-view.page:21
+msgid "Change Your Calendar's View"
+msgstr "Cambiar la vista de su calendario"
+
+#. (itstool) path: page/p
+#: C/cal-change-view.page:23
+msgid ""
+"<app>California</app> will display a month's worth of events by default, "
+"However you may wish to focus in on events for just one week or just one "
+"day. Change the view options for <app>California</app> by selecting your "
+"desired option from the buttons on the left-hand portion of the menu bar:"
+msgstr ""
+"<app>California</app> mostrará de manera predeterminada los eventos de un "
+"mes. Además puede querer enfocarse en eventos de solo una semana o solo un "
+"día. Cambie la opción de vista para <app>California</app> seleccionando la "
+"opción que quiera desde los botones en la parte izquierda de la barra de "
+"menú."
+
+#. (itstool) path: item/p
+#: C/cal-change-view.page:30
+msgid "Selecting <gui>Week</gui> will display events for the current week."
+msgstr ""
+"Seleccionando <gui>Semana</gui> mostrará eventos de la semana en curso."
+
+#. (itstool) path: item/p
+#: C/cal-change-view.page:32
+msgid "Selecting <gui>Month</gui> will display events for the entire month."
+msgstr "Seleccionando <gui>Mes</gui> mostrará los eventos de un mes completo."
+
+#. (itstool) path: item/p
+#: C/cal-change-view.page:34
+msgid ""
+"Selecting <gui>Today</gui> will highlight the current day. This can be "
+"helpful if you've been looking at events in the future or in the past and "
+"want to quickly return to see current events."
+msgstr ""
+"Seleccionando <gui>Hoy</gui> resaltará el día actual. Esto puede ser útil si "
+"ha estado buscando eventos en el futuro o en el pasado y quiere volver "
+"rápidamente a ver los eventos actuales."
+
+#. (itstool) path: page/p
+#: C/cal-change-view.page:39
+msgid "You can also change your calendar view by using keyboard shortcuts:"
+msgstr ""
+"También puede cambiar la vista de su calendario utilizando atajos del "
+"teclado:"
+
+#. (itstool) path: table/title
+#: C/cal-change-view.page:42
+msgid "Calendar View Shortcut Keys"
+msgstr "Atajos de la vista de calendario"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:45 C/cal-shortcut-keys.page:38
+msgid "To Do This"
+msgstr "Para hacer esto"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:46 C/cal-shortcut-keys.page:39
+msgid "Press This"
+msgstr "Pulse esto"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:51 C/cal-shortcut-keys.page:48
+msgid "View the calendar as weeks"
+msgstr "Ver el calendario como semanas"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:52 C/cal-shortcut-keys.page:49
+msgid "<keyseq><key>Ctrl</key><key>W</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>W</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:55 C/cal-shortcut-keys.page:52
+msgid "View the calendar as months"
+msgstr "Ver el calendario como meses"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:56 C/cal-shortcut-keys.page:53
+msgid "<keyseq><key>Ctrl</key><key>M</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>M</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:59 C/cal-shortcut-keys.page:44
+msgid "Reset the view to highlight the current day"
+msgstr "Restaurar la vista para resaltar el día actual"
+
+#. (itstool) path: td/p
+#: C/cal-change-view.page:60 C/cal-shortcut-keys.page:45
+msgid "<keyseq><key>Ctrl</key><key>T</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>T</key></keyseq>"
+
+#. (itstool) path: info/desc
+#: C/cal-event-edit.page:8
+msgid "Change an event's details."
+msgstr "Cambiar los detalles de un evento."
+
+#. (itstool) path: page/title
+#: C/cal-event-edit.page:21
+msgid "Edit an Event"
+msgstr "Editar un evento"
+
+#. (itstool) path: page/p
+#: C/cal-event-edit.page:23
+msgid ""
+"This page describes how to add specific details to an event that you are "
+"creating, or how to change the details of an event that you created in the "
+"past."
+msgstr ""
+"Esta página describe cómo añadir detalles específicos a un evento que está "
+"creando, o cómo cambiar los detalles de un evento que ha creado en el pasado."
+
+#. (itstool) path: note/p
+#: C/cal-event-edit.page:27
+msgid ""
+"You will not be able to edit events that are part of certain web-based "
+"calendar feeds. For example, if you subscribe to a friend's Google Calendar, "
+"but do not have permission to edit events on your friend's calendar, you "
+"will not be able to change the details of their events."
+msgstr ""
+"No podrá editar eventos que son parte de ciertos proveedores de calendarios "
+"basados en la web. Por ejemplo, si se suscribe al calendario de Google de un "
+"amigo, pero no tiene los permisos para editar los eventos en el calendario "
+"de su amigo, no podrá cambiar los detalles de sus eventos."
+
+#. (itstool) path: steps/title
+#: C/cal-event-edit.page:34
+msgid "Here is how to change an event's details:"
+msgstr "Aquí se explica cómo se cambian los detalles de un evento:"
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:35 C/cal-event-edit.page:55 C/cal-event-edit.page:79
+msgid "Find the event you want to edit on your calendar."
+msgstr "Busque el evento que quiere editar en su calendario."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:36 C/cal-event-edit.page:56 C/cal-event-edit.page:80
+#: C/cal-event-remove.page:32
+msgid "Select the event. A window will open, displaying the event's details."
+msgstr ""
+"Seleccione el evento. Una ventana se abrirá mostrando los detalles del "
+"evento."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:38 C/cal-event-edit.page:58 C/cal-event-edit.page:82
+msgid "Select <gui>Edit</gui>."
+msgstr "Seleccione <gui>Editar</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:39
+msgid "Change or enter all of the event's relevant details."
+msgstr "Cambie o introduzca todos los detalles relevantes del evento."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:40
+msgid ""
+"You can change an event's summary, time, location, description, and the "
+"frequency with which the event occurs. You can also change the calendar on "
+"which you would like the event to appear."
+msgstr ""
+"Puede cambiar el resumen de un evento, la hora, la ubicación, la descripción "
+"y la frecuencia con la que ese evento sucede. También puede cambiar el "
+"calendario en el cual le gustaría que ese evento apareciera."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:43
+msgid ""
+"Detailed instructions for changing the time of an event, or how often it "
+"occurs, are included below."
+msgstr ""
+"Se incluyen a continuación instrucciones detalladas para cambiar la hora de "
+"un evento o cuán a menudo éste sucede."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:45
+msgid ""
+"When you are finished editing the event, select <gui>Save</gui>. If you do "
+"not want to save your changes, select <gui>Cancel</gui>."
+msgstr ""
+"Cuando ha terminado de editar un evento, seleccione<gui>Guardar</gui>. Si no "
+"quiere guardar los cambios, seleccione <gui>Cancelar</gui>."
+
+#. (itstool) path: section/title
+#: C/cal-event-edit.page:51
+msgid "Change the Time or Duration of an Event"
+msgstr "Cambiar la hora o la duración de un evento"
+
+#. (itstool) path: steps/title
+#: C/cal-event-edit.page:54
+msgid "To change the start or end time of an event:"
+msgstr "Para cambiar la hora de inicio o de fin de un evento:"
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:59
+msgid ""
+"Select the <gui>Clock</gui> icon next to the event's time. A new window will "
+"appear."
+msgstr ""
+"Seleccione el icono del <gui>Reloj</gui> junto a la hora del evento. "
+"Aparecerá una nueva ventana."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:61
+msgid ""
+"Select the <em>start</em> date and time using the calendar and time "
+"selectors on the <em>left</em>."
+msgstr ""
+"Seleccione la fecha y la hora de <em>comienzo</em> usando los selectores de "
+"calendario y hora en la <em>izquierda</em>."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:63
+msgid ""
+"Select the <em>end</em> date and time using the calendar and time selectors "
+"on the <em>right</em>."
+msgstr ""
+"Seleccione la fecha y la hora de <em>fin</em> usando los selectores de "
+"calendario y hora en la <em>derecha</em>."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:65 C/cal-event-edit.page:117
+msgid "Select <gui>OK</gui>."
+msgstr "Seleccione <gui>Aceptar</gui>."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:66
+msgid ""
+"If necessary, enter information into any of the other event's detail fields."
+msgstr ""
+"Si es necesario, introduzca información en cualquiera de los otros campos "
+"para detalles del evento."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:68
+msgid ""
+"When you are done, select <gui>Save</gui>. If you do not want to save your "
+"changes, select <gui>Cancel</gui>."
+msgstr ""
+"Cuando haya terminado, seleccione <gui>Guardar</gui> Si no quiere guardar "
+"los cambios realizados, seleccione <gui>Cancelar</gui>"
+
+#. (itstool) path: section/title
+#: C/cal-event-edit.page:75
+msgid "Change How Often an Event Occurs"
+msgstr "Cambia cada cuánto sucede un evento"
+
+#. (itstool) path: steps/title
+#: C/cal-event-edit.page:78
+msgid "To change the frequency, or how often an event occurs:"
+msgstr "Para cambiar la frecuencia, o cada cuánto sucede un evento:"
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:83
+msgid "Select <gui>Repeats . . .</gui>"
+msgstr "Seleccione <gui>Repetir . . .</gui>"
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:84
+msgid ""
+"Mark or unmark the <gui>Repeating event</gui> check box. This box is used to "
+"indicate whether or not this event will repeat."
+msgstr ""
+"Marque o desmarque la opción <gui>Repetir evento</gui>. Esto se usa para "
+"indicar si el evento se repetirá o no."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:87
+msgid "If the event repeats, select how often it repeats:"
+msgstr "Si el evento se repite, seleccione cada cuánto se repite:"
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:89
+msgid "<em>Daily</em> events occur every day."
+msgstr "Los eventos <em>diarios</em> suceden cada día."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:90
+msgid ""
+"<em>Weekly</em> events occur on a weekly basis, and you can set them to "
+"occur on certain days of the week."
+msgstr ""
+"Los eventos <em>semanales</em> suceden semanalmente, y se pueden configurar "
+"para que ocurran en ciertos días de la semana."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:92
+msgid ""
+"To select the days of the week that you would like the event to occur, mark "
+"the check box next to each day that you would like the event to repeat."
+msgstr ""
+"Para elegir los días de la semana que quiere que los eventos sucedan, marque "
+"la casilla junto a cada día que quiera que el evento se repita."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:95
+msgid ""
+"<em>Day of the week</em> events occur every month on the day you have "
+"selected."
+msgstr ""
+"Los eventos <em>día de la semana</em> ocurren cada mes en el día que ha "
+"elegido."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:97
+msgid "<em>Day of the month</em> events occur every month."
+msgstr "Los eventos <em>día del mes</em> suceden cada mes."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:99
+msgid "<em>Yearly</em> events occur every year."
+msgstr "Los eventos <em>anuales</em> suceden cada año."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:102
+msgid "Enter or change the date that the event <em>Starts</em>."
+msgstr "Introduzca o cambie la fecha en que el evento <em>Empieza</em>."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:104
+msgid ""
+"Enter or change the date that the event <em>Ends</em>. You can set events to "
+"end in this manner:"
+msgstr ""
+"Entre o cambie la fecha en la que el evento <em>Finaliza</em>. Puede "
+"establecer eventos para terminar en esta manera:"
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:107
+msgid ""
+"<em>Never</em>. Events that are set to never end will repeat indefinitely on "
+"your calendar. This is appropriate for events like birthdays, anniversaries, "
+"or other dates that you will always want to remember."
+msgstr ""
+"<em>Nunca</em>. Los eventos que se han configurado para que nunca finalicen "
+"se repetirán indefinidamente en su calendario. Esto es apropiado para "
+"eventos tales como cumpleaños, aniversarios u otras fechas que siempre "
+"quiere recordar."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:111
+msgid "<em>On</em>. You can set repeating events to end on a certain date"
+msgstr ""
+"<em>En</em>. Puede configurar eventos para que terminen en una fecha "
+"determinada."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:113
+msgid ""
+"<em>After</em>. Use this option to mark an event as ending after a certain "
+"number of occurrences."
+msgstr ""
+"<em>Después</em>. Use esta opción para marcar un evento que finaliza luego "
+"de una cierta cantidad de ocurrencias."
+
+#. (itstool) path: item/p
+#: C/cal-event-edit.page:118
+msgid "Select <gui>Save</gui>."
+msgstr "Seleccione <gui>Guardar</gui>."
+
+#. (itstool) path: info/desc
+#: C/cal-event-quick-add.page:9
+msgid "Add an event to your calendar using everyday language."
+msgstr "Añadir un evento a su calendario usando lenguaje cotidiano."
+
+#. (itstool) path: page/title
+#: C/cal-event-quick-add.page:23
+msgid "Use the Quick Add Feature to Add Events"
+msgstr "Use la característica Añadir rápidamente para agregar eventos."
+
+#. (itstool) path: page/p
+#: C/cal-event-quick-add.page:25
+msgid ""
+"One of the best features of <app>California</app> is called the <em>Quick "
+"Add</em> feature. It allows you to add events to your calendar using "
+"everyday language. Let's look at a few examples to see how it works."
+msgstr ""
+"Una de las mejores características de <app>California</app> es la llamada "
+"<em>Agregar rápidamente</em>. Ésta permite añadir eventos a su calendario "
+"usando lenguaje cotidiano. Vea algunos ejemplos para ver cómo funciona."
+
+#. (itstool) path: section/title
+#: C/cal-event-quick-add.page:31
+msgid "Create Both One-Time and Recurring Events"
+msgstr "Crear eventos de Una sola vez y Recurrentes."
+
+#. (itstool) path: section/p
+#: C/cal-event-quick-add.page:33
+msgid ""
+"We can use the <em>Quick Add</em> feature to add events that occur only one "
+"time and events that occur more than once:"
+msgstr ""
+"Puede usar la característica <em>Añadir rápidamente</em> para añadir eventos "
+"que suceden solamente una vez y eventos que suceden mas de una vez:"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:37
+msgid "Start the <em>Quick Add</em> feature by doing any of the following:"
+msgstr ""
+"Empiece con la característica <em>Añadir rápidamente</em> realizando "
+"cualquiera de las siguientes acciones:"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:40
+msgid ""
+"Find the date or time on your calendar when the event will occur, and "
+"<em>double-click</em> that portion of the calendar."
+msgstr ""
+"Encuentre la fecha y la hora en su calendario de cuándo ocurrirá el evento y "
+"haga una<em>doble pulsación</em> en esa parte del calendario."
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:43
+msgid ""
+"Press the <gui>Plus</gui> button in the upper-right portion of "
+"<app>California's</app> <gui>menu bar</gui>."
+msgstr ""
+"Pulse el botón<gui>Más</gui> en la parte superior derecha de la <gui>barra "
+"de menú</gui> de <app>California</app>."
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:45
+msgid "Press <keyseq><key>Ctrl</key><key>N</key></keyseq>."
+msgstr "Pulse <keyseq><key>Ctrl</key><key>N</key></keyseq>."
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:47
+msgid "The <em>Quick Add</em> window will appear."
+msgstr "Aparecerá la ventana de <em>Añadir rápidamente</em>."
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:49
+msgid ""
+"Enter the details of your event. You can describe the event using natural "
+"language:"
+msgstr ""
+"Introduzca los detalles de su evento. Puede describir el evento utilizando "
+"lenguaje natural:"
+
+#. (itstool) path: list/title
+#: C/cal-event-quick-add.page:52
+msgid "Examples of one-time events"
+msgstr "Ejemplos de eventos de sólo una vez"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:53
+msgid ""
+"If you double-clicked on the specific date and time you want an event to "
+"occur, just type out the details of the event:"
+msgstr ""
+"Si pulsa dos veces en la fecha y hora específica en la que quiere que el "
+"evento suceda, simplemente escriba los detalles del evento:"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:55
+msgid "<em>Meet James at the movies.</em>"
+msgstr "<em>Encontrarme con James en el cine.</em>"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:56
+msgid ""
+"If you selected the <gui>Plus</gui> button or pressed <keyseq><key>Ctrl</"
+"key><key>N</key></keyseq>, you will need to also enter the event's date and "
+"time:"
+msgstr ""
+"Si ha elegido el botón <gui>Más</gui> o ha pulsado<keyseq><key>Ctrl</"
+"key><key>N</key></keyseq>, necesitará también introducir la fecha y hora del "
+"evento."
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:59
+msgid "<em>Go to Jeff and Mindy's wedding on October 26th at 4:00pm</em>"
+msgstr ""
+"<em>Asistir a la boda de Jeff y Mindy el 26 de octubre a las 4:00pm</em>"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:61
+msgid "You can also define how long the event takes place:"
+msgstr "También puede definir cuánto durará el evento:"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:62
+msgid "<em>Visit Alice at office on November 1st from 1pm to 2:30pm</em>"
+msgstr ""
+"<em>Visitar a Alicia en la oficina el 1 de noviembre desde la 1pm hasta las "
+"2:30pm</em>"
+
+#. (itstool) path: list/title
+#: C/cal-event-quick-add.page:67
+msgid "Examples of recurring events"
+msgstr "Ejemplos de eventos recurrentes"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:68
+msgid "<em>Take out the trash every Tuesday at 7:30am</em>"
+msgstr "<em>Sacar la basura todos los martes a las 7:30pm</em>"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:69
+msgid "<em>Swimming class every Tuesday and Thursday at 6:00pm</em>"
+msgstr "<em>Clase de natación cada martes y jueves a las 6:00pm</em>"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:71
+msgid "<em>Meet at Barney's every Monday at 9am until December 1st</em>"
+msgstr ""
+"<em>Reunión donde Barney cada lunes a las 9am hasta el 1 de diciembre</em>"
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:75
+msgid ""
+"If you want to enter specific details regarding the event, select <gui>Edit</"
+"gui>. See the <link href=\"cal-event-edit.page\">Edit an Event</link> page "
+"for information about editing events."
+msgstr ""
+"Si desea introducir detalles específicos de acuerdo al evento, elija "
+"<gui>Editar</gui>. Consulte la página <link href=\"cal-event-edit.page"
+"\">Editar un evento</enlace> con información acerca de la edición de eventos."
+
+#. (itstool) path: item/p
+#: C/cal-event-quick-add.page:79
+msgid ""
+"After you have entered your event details, press <gui>Create</gui>. "
+"<app>California</app> will use the information that you have entered to "
+"create the event on your calendar."
+msgstr ""
+"Después de haber introducido los detalles del evento, pulse <gui>Crear</"
+"gui>. <app>California</app> usará la información que introduzca para crear "
+"el evento en su calendario."
+
+#. (itstool) path: note/p
+#: C/cal-event-quick-add.page:84
+msgid ""
+"By default, the <em>Quick Add</em> feature will create events that last for "
+"one hour. You may wish to adjust the duration of your events or add "
+"additional details. See the <link href=\"cal-event-edit.page\">Edit an "
+"Event</link> page for more information about editing events."
+msgstr ""
+"De manera predeterminada, la característica <em>Agregar rápidamente</em> "
+"creará eventos que duren una hora. Tal vez quiera ajustar la duración del "
+"evento o añadir detalles adicionales. Consulte la página <link href=\"cal-"
+"event-edit.page\">Editar un evento</link> para obtener mas información "
+"acerca de la edición de eventos."
+
+#. (itstool) path: info/desc
+#: C/cal-event-remove.page:7
+msgid "Delete an event from your calendar."
+msgstr "Eliminar un evento de su calendario."
+
+#. (itstool) path: page/title
+#: C/cal-event-remove.page:21
+msgid "Remove an Event"
+msgstr "Eliminar un evento"
+
+#. (itstool) path: page/p
+#: C/cal-event-remove.page:23
+msgid "This page describes how to remove events from your calendar."
+msgstr "Esta página describe cómo eliminar eventos de un calendario."
+
+#. (itstool) path: note/p
+#: C/cal-event-remove.page:25
+msgid ""
+"Removing an event from your calendar is permanent. It is not possible to "
+"restore an event that you have deleted."
+msgstr ""
+"La eliminación de un evento del calendario es permanente. No es posible "
+"restaurar un evento que se ha eliminado."
+
+#. (itstool) path: steps/title
+#: C/cal-event-remove.page:29
+msgid "Here is how to remove an event or a series of recurring events:"
+msgstr ""
+"Aquí se indica cómo eliminar un evento de una serie de eventos recurrentes:"
+
+#. (itstool) path: item/p
+#: C/cal-event-remove.page:31
+msgid "Find the event you want to remove from your calendar."
+msgstr "Busque el evento que quiera eliminar del calendario."
+
+#. (itstool) path: item/p
+#: C/cal-event-remove.page:34
+msgid ""
+"Select <gui>Delete</gui>. If you are deleting a one-time event that does not "
+"repeat, the event will be deleted immediately. If you are deleting a "
+"recurring event, you will have other options:"
+msgstr ""
+"Seleccione <gui>Eliminar</gui>. Si está eliminando un evento de Una sola vez "
+"que no se repite, el evento se eliminará inmediatamente. Si quiere eliminar "
+"un evento recurrente, tendrá otras opciones."
+
+#. (itstool) path: item/p
+#: C/cal-event-remove.page:38
+msgid ""
+"<gui>Delete This Event</gui>. This will delete only this single event. All "
+"other recurring events in this series, both events from the future and "
+"events from the past, will not be changed."
+msgstr ""
+"<gui>Eliminar éste evento</gui>. Esta acción eliminará solamente éste único "
+"evento. Todas las demás apariciones del evento en esta serie, que suceden en "
+"el futuro y en el pasado no se modificarán."
+
+#. (itstool) path: item/p
+#: C/cal-event-remove.page:42
+msgid ""
+"<gui>Delete This and Future Events</gui>. This will delete this event, as "
+"well as future events in this series. Events that occurred in the past will "
+"not be changed."
+msgstr ""
+"<gui>Eliminar éste y futuros eventos</gui>. Esta acción eliminará éste "
+"evento y también todos los eventos futuros en esta serie. Los eventos que "
+"ocurren en el pasado no se modificarán."
+
+#. (itstool) path: item/p
+#: C/cal-event-remove.page:45
+msgid ""
+"<gui>Delete All Events</gui>. This will delete all events in this series, "
+"including events that occurred in the past."
+msgstr ""
+"<gui>Eliminar todos los eventos</gui>. Esta acción eliminará todos los "
+"eventos de esta serie, incluyendo los eventos que sucedieron en el pasado "
+
+#. (itstool) path: item/p
+#: C/cal-event-remove.page:49
+msgid "If you do not want to remove an event, select <gui>Cancel</gui>."
+msgstr "Si no quiere eliminar un evento, seleccione <gui>Cancelar</gui>."
+
+#. (itstool) path: note/p
+#: C/cal-event-remove.page:53
+msgid ""
+"You will not be able to delete events that are part of certain web-based "
+"calendar feeds. For example, if you subscribe to a friend's Google Calendar, "
+"but do not have permission to edit events on your friend's calendar, you "
+"will not be able to delete their events from your view of their calendar."
+msgstr ""
+"No podrá eliminar eventos que sean parte de ciertos proveedores de "
+"calendarios basado en la web. Por ejemplo, si se ha suscrito al calendario "
+"de Google de un amigo pero no tiene los permisos para editar eventos en el "
+"calendario de su amigo, no podrá eliminar aquellos eventos de la vista del "
+"calendario."
+
+#. (itstool) path: note/p
+#: C/cal-event-remove.page:58
+msgid ""
+"If you want to not see certain types of events on your calendar, review how "
+"to <link xref=\"cal-hide-a-calendar\">hide a calendar from view</link>."
+msgstr ""
+"Si no quiere ver ciertos tipos de eventos en su calendario, consulte cómo "
+"<link xref=\"cal-hide-a-calendar\">ocultar un calendario de la vista</link>."
+
+#. (itstool) path: info/desc
+#: C/cal-hide-a-calendar.page:8
+msgid "Simplify your calendar's interface."
+msgstr "Simplifica la interface del calendario."
+
+#. (itstool) path: page/title
+#: C/cal-hide-a-calendar.page:20
+msgid "Hide a Calendar From View"
+msgstr "Ocultar un calendario de la vista"
+
+#. (itstool) path: page/p
+#: C/cal-hide-a-calendar.page:22
+msgid ""
+"If you keep track of more than one calendar, your calendar may get cluttered "
+"with events. This can make it hard to read your calendar."
+msgstr ""
+"Si hace el seguimiento de más de un calendario, su calendario puede estar "
+"abarrotado de eventos. Esto puede hacer difícil la lectura del calendario."
+
+#. (itstool) path: page/p
+#: C/cal-hide-a-calendar.page:25
+msgid ""
+"If you want to make it easier to see only certain types of events, you can "
+"<em>hide a calendar</em>. This will temporarily remove the calendar from "
+"view, but it will not delete the calendar, and all of the calendar's events "
+"will remain intact."
+msgstr ""
+"Si quiere hacer mas fácil de ver solamente ciertos tipos de eventos, puede "
+"<em>Ocultar un calendario</em>. Esto quitará temporalmente el calendario de "
+"la vista, pero no eliminará el calendario, y todos los eventos del "
+"calendario permanecerán intactos."
+
+#. (itstool) path: steps/title
+#: C/cal-hide-a-calendar.page:31
+msgid "Hide a Calendar From View:"
+msgstr "Ocultar un calendario de la vista:"
+
+#. (itstool) path: item/p
+#: C/cal-hide-a-calendar.page:32
+msgid ""
+"Click the <gui>Calendar</gui> icon in the upper-right portion of "
+"<app>California's</app> menu bar. A list of your current calendars will "
+"appear in a new window."
+msgstr ""
+"Pulse en el icono <gui>Calendario</gui> en la parte superior derecha de la "
+"barra de menú de <app>California</app>. Aparecerá una lista de los "
+"calendarios actuales en una nueva ventana."
+
+#. (itstool) path: item/p
+#: C/cal-hide-a-calendar.page:35
+msgid "Identify the calendar that you want to hide."
+msgstr "Identifique el calendario que quiere ocultar."
+
+#. (itstool) path: item/p
+#: C/cal-hide-a-calendar.page:36
+msgid "Unmark the check box next to the calendar that you wish to hide."
+msgstr "Desmarque la casilla junto al calendario que quiere ocultar."
+
+#. (itstool) path: item/p
+#: C/cal-hide-a-calendar.page:38
+msgid "Click <gui>Close</gui>."
+msgstr "Pulse <gui>Cerrar</gui>."
+
+#. (itstool) path: page/p
+#: C/cal-hide-a-calendar.page:41
+msgid "The calendar that you selected will now be hidden from view."
+msgstr "El calendario que seleccionó ahora estará oculto a la vista."
+
+#. (itstool) path: note/p
+#: C/cal-hide-a-calendar.page:43
+msgid ""
+"To make a calendar visible again, complete the same steps, but <em>check the "
+"box</em> next to the calendar that you want to see."
+msgstr ""
+"Para hacer un calendario visible otra vez, complete los mismos pasos, pero "
+"<em>marque la casilla</em> junto al calendario que quiere ver."
+
+#. (itstool) path: p/gui
+#: C/cal-open-calendar-list.xml:2
+msgid "Calendar"
+msgstr "Calendario"
+
+#. (itstool) path: p/app
+#: C/cal-open-calendar-list.xml:3
+msgid "California's"
+msgstr "California"
+
+#. (itstool) path: item/p
+#: C/cal-open-calendar-list.xml:2
+msgid ""
+"Select the <_:gui-1/> icon in the upper-right portion of <_:app-2/> menu "
+"bar. A list of your current calendars will appear in a new window."
+msgstr ""
+"Seleccione el icono <_:gui-1/> en la parte superior derecha de la barra de "
+"menú <_:app-2/>. Una lista de los calendarios actuales aparecerá en una "
+"nueva ventana."
+
+#. (itstool) path: p/gui
+#: C/cal-open-calendar-list.xml:5
+msgid "Plus"
+msgstr "Más"
+
+#. (itstool) path: item/p
+#: C/cal-open-calendar-list.xml:5
+msgid "Select the <_:gui-1/> icon at the bottom of that window."
+msgstr "Seleccione el <_:gui-1/> icono en la parte inferior de la ventana."
+
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/cal-quickstart.page:24
+msgctxt "_"
+msgid ""
+"external ref='media/california-screenshot.png' "
+"md5='a6cc48646942a6d91e3bb6836809b315'"
+msgstr ""
+"external ref='media/california-screenshot.png' "
+"md5='a6cc48646942a6d91e3bb6836809b315'"
+
+#. (itstool) path: info/desc
+#: C/cal-quickstart.page:7
+msgid "Get started with California."
+msgstr "Primeros pasos con California."
+
+#. (itstool) path: page/title
+#: C/cal-quickstart.page:19
+msgid "Introduction"
+msgstr "Introducción"
+
+#. (itstool) path: page/p
+#: C/cal-quickstart.page:20
+msgid ""
+"<app>California</app> is a modern calendar application for the GNOME "
+"desktop. Once <app>California</app> launches, you can start using it right "
+"away."
+msgstr ""
+"<app>California</app>es una aplicación de calendario moderna para el "
+"escritorio GNOME. Una vez que lanza <app>California</app> puede empezar a "
+"usarlo de inmediato."
+
+#. (itstool) path: page/p
+#: C/cal-quickstart.page:26
+msgid ""
+"To add a new event, just click the <gui>Plus</gui> icon in the "
+"<app>California</app> toolbar. You may find it helpful to review the <link "
+"xref=\"cal-event-quick-add\">Quick Add</link> help page, as it will show you "
+"how to add both one-time and recurring events to your calendar."
+msgstr ""
+"Para agregar un nuevo evento, pulse en el icono <gui>Más</gui> en la barra "
+"de tareas de <app>California</app>. Puede encontrar útil consultar la página "
+"de ayuda <link xref=\"cal-event-quick-add\">Agregar rápidamente</link>, ya "
+"que le mostrará como agregar eventos de una sola vez y eventos recurrentes a "
+"su calendario."
+
+#. (itstool) path: page/p
+#: C/cal-quickstart.page:31
+msgid ""
+"To learn about additional <app>California</app> features, and to get "
+"assistance with performing additional tasks, explore <link xref=\"index"
+"\">the other portions</link> of the <app>California</app> help."
+msgstr ""
+"Para aprender acerca de las características adicionales de <app>California</"
+"app> y conseguir asistencia para realizar tareas adicionales, explore <link "
+"xref=\"index\">las otras partes de la ayuda</link> de <app>California</app>."
+
+#. (itstool) path: info/desc
+#: C/cal-remove-calendar.page.stub:7
+msgid "Delete a calendar and its related event details."
+msgstr "Eliminar un calendario y sus detalles de los eventos relacionados."
+
+#. (itstool) path: page/title
+#: C/cal-remove-calendar.page.stub:21
+msgid "Remove a Calendar"
+msgstr "Quitar un calendario"
+
+#. (itstool) path: page/p
+#: C/cal-remove-calendar.page.stub:23
+msgid "In some cases, you may decide that you no longer want to store or track"
+msgstr "En algunos casos puede decidir que no quiere mas almacenar o seguirlo."
+
+#. (itstool) path: info/desc
+#: C/cal-rename-calendar.page:7
+msgid "Change the name of a calendar."
+msgstr "Cambiar el nombre de un calendario."
+
+#. (itstool) path: page/title
+#: C/cal-rename-calendar.page:21
+msgid "Rename a Calendar"
+msgstr "Renombrar un calendario"
+
+#. (itstool) path: steps/title
+#: C/cal-rename-calendar.page:24
+msgid "You can change the names of your calendars. Here is how to do it:"
+msgstr ""
+"Puede cambiar el nombre de su calendario. Aquí se explica como hacerlo:"
+
+#. (itstool) path: item/p
+#: C/cal-rename-calendar.page:26
+msgid ""
+"Select the <gui>Calendar</gui> icon in the upper-right portion of "
+"<app>California's</app> menu bar, or press <keyseq><key>Ctrl</key> <key>L</"
+"key></keyseq>. A list of your current calendars will appear in a new window."
+msgstr ""
+"Seleccione el icono del <gui>Calendario</gui> en la parte superior derecha "
+"de la barra de menú de <app>California</app> o pulse <keyseq><key>Ctrl</key> "
+"<key>L</key></keyseq>. Una lista de sus calendarios actuales aparecerá en "
+"una nueva ventana."
+
+#. (itstool) path: item/p
+#: C/cal-rename-calendar.page:30
+msgid "Double-click the name of the calendar that you would like to change."
+msgstr "Doble pulsación en el nombre del calendario que quiera modificar."
+
+#. (itstool) path: item/p
+#: C/cal-rename-calendar.page:32
+msgid "Enter the new name for that calendar."
+msgstr "Introduzca el nuevo nombre para el calendario."
+
+#. (itstool) path: item/p
+#: C/cal-rename-calendar.page:33
+msgid ""
+"Select <gui>Close</gui>. The name of your calendar will be updated "
+"immediately."
+msgstr ""
+"Seleccione <gui>Cerrar</gui>. El nombre del calendario se actualizará "
+"inmediatamente."
+
+#. (itstool) path: info/desc
+#: C/cal-shortcut-keys.page:8
+msgid "Learn California's keyboard shortcuts."
+msgstr "Aprender los atajos de teclado de California"
+
+#. (itstool) path: page/title
+#: C/cal-shortcut-keys.page:21
+msgid "Shortcut Keys"
+msgstr "Atajos del teclado"
+
+#. (itstool) path: page/p
+#: C/cal-shortcut-keys.page:23
+msgid ""
+"Use <gui>shortcut keys</gui> to perform common tasks more quickly than with "
+"the mouse and menus. The following table lists all of <app>California's</"
+"app> shortcut keys."
+msgstr ""
+"Use <gui>Los atajos del teclado</gui> para realizar tareas comunes mas "
+"rápidamente que con el ratón y los menúes. La tabla siguiente lista todos "
+"los atajos del teclado de <app>California</app>."
+
+#. (itstool) path: table/title
+#: C/cal-shortcut-keys.page:35
+msgid "List of Shortcut Keys"
+msgstr "Lista de atajos del teclado"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:57
+msgid "View the next month / week"
+msgstr "Ver el mes/semana siguiente"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:58
+msgid "<keyseq><key>Alt</key><key>Right Arrow</key></keyseq>"
+msgstr "<keyseq><key>Alt</key><key>Flecha derecha</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:61
+msgid "View the previous month / week"
+msgstr "Ver el mes/semana previo"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:62
+msgid "<keyseq><key>Alt</key><key>Left Arrow</key></keyseq>"
+msgstr "<keyseq><key>Alt</key><key>Flecha izquierda</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:65
+msgid "Open the <em>Quick-add</em> window"
+msgstr "Abrir la ventana de <em>Añadir rapido</em>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:66
+msgid "<keyseq><key>Ctrl</key><key>N</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>N</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:69
+msgid "Open the list of calendars"
+msgstr "Abrir la lista de calendarios"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:70
+msgid "<keyseq><key>Ctrl</key><key>L</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>L</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:73
+msgid "Increase the font size"
+msgstr "Aumentar el tamaño de la tipografía"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:74
+msgid "<keyseq><key>+</key></keyseq>"
+msgstr "<keyseq><key>+</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:77
+msgid "Decrease the font size"
+msgstr "Reducir el tamaño de la tipografía"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:78
+msgid "<keyseq><key>-</key></keyseq>"
+msgstr "<keyseq><key>-</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:81
+msgid "Reset the font size"
+msgstr "Restablecer el tamaño de la tipografía"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:82
+msgid "<keyseq><key>*</key></keyseq>"
+msgstr "<keyseq><key>*</key></keyseq>"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:85
+msgid "Quit the application"
+msgstr "Salir de la aplicación"
+
+#. (itstool) path: td/p
+#: C/cal-shortcut-keys.page:86
+msgid "<keyseq><key>Ctrl</key><key>Q</key></keyseq>"
+msgstr "<keyseq><key>Ctrl</key><key>Q</key></keyseq>"
+
+#. (itstool) path: info/desc
+#: C/index.page:8
+msgid "The California Help Guide."
+msgstr "La guía de ayuda de California"
+
+#. (itstool) path: info/title
+#: C/index.page:9
+msgctxt "link"
+msgid "California"
+msgstr "California"
+
+#. (itstool) path: info/title
+#: C/index.page:10
+msgctxt "text"
+msgid "California"
+msgstr "California"
+
+#. (itstool) path: page/title
+#: C/index.page:23
+msgid "<_:media-1/> California Calendar Help"
+msgstr "<_:media-1> Ayuda del calendario California"
+
+#. (itstool) path: page/p
+#: C/index.page:28
+msgid ""
+"Welcome to the <app>California</app> help guide. For a quick introduction "
+"into both <app>California's</app> most basic features, as well as some "
+"advanced keyboard shortcuts, visit the <link xref=\"cal-quickstart"
+"\">Introduction</link> and <link xref=\"cal-shortcut-keys\">Shortcut Keys</"
+"link> pages."
+msgstr ""
+"Bienvenido a la guía de ayuda de <app>California</app>. Para una "
+"introducción rápida tanto en las características básicas como en las "
+"avanzadas de atajos del teclado, visite las páginas <link xref=\"cal-"
+"quickstart\">Introducción</link> y <link xref=\"cal-shortcut-keys\">Atajos "
+"del teclado</link>."
+
+#. (itstool) path: page/p
+#: C/index.page:34
+msgid ""
+"Other help topics are grouped together into sections below. Enjoy using "
+"<app>California</app>!"
+msgstr ""
+"Hay otros temas de ayuda agrupados en las secciones de abajo. Disfrute "
+"usando <app>California</app>."
+
+#. (itstool) path: section/title
+#: C/index.page:38
+msgid "Manage Calendars"
+msgstr "Gestionar los calendarios"
+
+#. (itstool) path: section/p
+#: C/index.page:39
+msgid "Learn how to add and manage your calendars."
+msgstr "Aprender como añadir y gestionar sus calendarios."
+
+#. (itstool) path: section/title
+#: C/index.page:43
+msgid "Manage Calendar Events"
+msgstr "Manejar los eventos del calendario"
+
+#. (itstool) path: section/p
+#: C/index.page:44
+msgid "Learn how to add and manage events on your calendar."
+msgstr "Aprender como añadir y gestionar los eventos en su calendario."
+
+#. (itstool) path: p/link
+#: C/legal.xml:3
+msgid "http://creativecommons.org/licenses/by-sa/3.0/"
+msgstr "http://creativecommons.org/licenses/by-sa/3.0/"
+
+#. (itstool) path: license/p
+#: C/legal.xml:3
+msgid ""
+"This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 "
+"Unported License. To view a copy of this license, visit <_:link-1/> or send "
+"a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, "
+"California, 94041, USA."
+msgstr ""
+"Este trabajo está licenciado bajo la de Creative Commons compartir-igual de "
+"atribución 3.0 sin soporte. Para ver una copia de esta licencia visite <_:"
+"link-1/> o envíe una carta a Creative Commons, 444 Castro Street, Suite 900, "
+"Mountain View, California, 94041, USA."
