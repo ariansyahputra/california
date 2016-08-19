@@ -1,33 +1,34 @@
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Aviary.pl
-# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
-# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas:
-# gnomepl@aviary.pl
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Piotr Drąg <piotrdrag@gmail.com>, 2014-2015.
-# Aviary.pl <gnomepl@aviary.pl>, 2014-2015.
+# Polish translation for california.
+# Copyright © 2014-2016 the california authors.
+# This file is distributed under the same license as the california package.
+# Piotr Drąg <piotrdrag@gmail.com>, 2014-2016.
+# Aviary.pl <community-poland@mozilla.org>, 2014-2016.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: california\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-02 17:34+0200\n"
-"PO-Revision-Date: 2015-09-02 17:35+0200\n"
+"POT-Creation-Date: 2016-08-19 17:44+0200\n"
+"PO-Revision-Date: 2016-08-19 17:45+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <gnomepl@aviary.pl>\n"
+"Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Poedit-Language: Polish\n"
-"X-Poedit-Country: Poland\n"
 
-#: ../data/california.appdata.xml.in.h:1
+#: ../data/california.appdata.xml.in.h:1 ../data/california.desktop.in.in.h:1
+#: ../src/application/california-application.vala:19
+msgid "California"
+msgstr "California"
+
+#: ../data/california.appdata.xml.in.h:2
 msgid "GNOME 3 calendar"
 msgstr "Kalendarz dla środowiska GNOME 3"
 
-#: ../data/california.appdata.xml.in.h:2
+#: ../data/california.appdata.xml.in.h:3
 msgid ""
 "California is a new calendar application for GNOME 3 designed to let you "
 "work with your calendars quickly and easily. It provides month and week "
@@ -36,47 +37,42 @@ msgid ""
 "added to your calendar without filling out a form."
 msgstr ""
 "California to nowy kalendarz dla środowiska GNOME 3 zaprojektowany do "
-"szybkiej i łatwej pracy z kalendarzami. Dostarcza on widoki miesiąca oraz "
-"tygodnia i proste sposoby na aktualizowanie wydarzeń, w tym funkcję "
-"szybkiego dodawania, która umożliwia wpisywanie informacji o wydarzeniu i "
-"dodawanie go do kalendarza bez wypełniania żadnych formularzy."
+"szybkiej i łatwej pracy z kalendarzami. Dostarcza on widoki miesiąca oraz "
+"tygodnia i proste sposoby na aktualizowanie wydarzeń, w tym funkcję "
+"szybkiego dodawania, która umożliwia wpisywanie informacji o wydarzeniu "
+"i dodawanie go do kalendarza bez wypełniania żadnych formularzy."
 
-#: ../data/california.appdata.xml.in.h:3
+#: ../data/california.appdata.xml.in.h:4
 msgid ""
 "California is currently in beta development and has a limited but growing "
 "set of features:"
 msgstr ""
-"Program California jest obecnie w fazie beta i posiada ograniczony, ale "
+"Program California jest obecnie w fazie beta i posiada ograniczony, ale "
 "rosnący zestaw funkcji:"
 
-#: ../data/california.appdata.xml.in.h:4
+#: ../data/california.appdata.xml.in.h:5
 msgid "Modern, clean interface"
 msgstr "Nowoczesny, prosty interfejs"
 
-#: ../data/california.appdata.xml.in.h:5
-msgid "Month and week view of your schedule"
-msgstr "Widok miesiąca i tygodnia"
-
 #: ../data/california.appdata.xml.in.h:6
-msgid "Quick setup (if any is required at all)"
-msgstr "Szybkie ustawianie (jeśli w ogóle jakieś jest potrzebne)"
+msgid "Month and week view of your schedule"
+msgstr "Widok miesiąca i tygodnia"
 
 #: ../data/california.appdata.xml.in.h:7
-msgid "Integrates with Evolution Data Server"
-msgstr "Integracja z serwerem danych programu Evolution"
+msgid "Quick setup (if any is required at all)"
+msgstr "Szybkie ustawianie (jeśli w ogóle jakieś jest potrzebne)"
 
 #: ../data/california.appdata.xml.in.h:8
+msgid "Integrates with Evolution Data Server"
+msgstr "Integracja z serwerem danych programu Evolution"
+
+#: ../data/california.appdata.xml.in.h:9
 msgid "Quickly add events with a natural-language parser"
 msgstr "Szybkie dodawanie wydarzeń za pomocą analizatora języka naturalnego"
 
-#: ../data/california.appdata.xml.in.h:9
+#: ../data/california.appdata.xml.in.h:10
 msgid "Works with Google, WebCal, and CalDAV servers"
-msgstr "Działa z serwerami Google, WebCal, i CalDAV"
-
-#: ../data/california.desktop.in.in.h:1
-#: ../src/application/california-application.vala:19
-msgid "California"
-msgstr "California"
+msgstr "Działa z serwerami Google, WebCal, i CalDAV"
 
 #: ../data/california.desktop.in.in.h:2
 #: ../src/application/california-application.vala:20
@@ -102,7 +98,7 @@ msgstr "CalDAV"
 #: ../src/activator/generic/generic-subscribe.vala:100
 #, c-format
 msgid "Unable to subscribe to calendar at %s: %s"
-msgstr "Nie można subskrybować kalendarza w %s: %s"
+msgstr "Nie można subskrybować kalendarza w %s: %s"
 
 #: ../src/activator/google/google-authenticating-pane.vala:89
 #: ../src/rc/activator-google-authenticating-pane.ui.h:3
@@ -164,15 +160,15 @@ msgstr "Nie można otworzyć programu California: %s"
 #: ../src/application/california-application.vala:324
 #, c-format
 msgid "About %s"
-msgstr "O programie %s"
+msgstr "O programie %s"
 
 #. Translators: add your name and email address to receive credit in the About dialog
 #. For example: Yamada Taro <yamada.taro@example.com>
 #: ../src/application/california-application.vala:330
 msgid "translator-credits"
 msgstr ""
-"Piotr Drąg <piotrdrag@gmail.com>, 2014-2015\n"
-"Aviary.pl <gnomepl@aviary.pl>, 2014-2015"
+"Piotr Drąg <piotrdrag@gmail.com>, 2014-2016\n"
+"Aviary.pl <community-poland@mozilla.org>, 2014-2016"
 
 #: ../src/application/california-commandline.vala:9
 msgid "[.ics FILE...]"
@@ -877,7 +873,7 @@ msgstr ", "
 #: ../src/component/component-recurrence-rule.vala:841
 #, c-format
 msgid "Repeats every %s on %s, %s"
-msgstr "Powtarzanie co %s w %s, %s"
+msgstr "Powtarzanie co %s w %s, %s"
 
 #. As in, "Repeats every week on Thursday until Sept. 2, 2014"
 #. As in, "Repeats every month on day 21 until Sept. 2, 2014"
@@ -887,7 +883,7 @@ msgstr "Powtarzanie co %s w %s, %s"
 #: ../src/component/component-recurrence-rule.vala:848
 #, c-format
 msgid "Repeats every %s on %s until %s"
-msgstr "Powtarzanie co %s w %s do %s"
+msgstr "Powtarzanie co %s w %s do %s"
 
 #. As in, "Repeats every week on Friday, Saturday until Sept. 2, 2014, 8:00pm"
 #. As in, "Repeats every month on day 20 until Sept. 2, 2014, 8:00pm"
@@ -897,7 +893,7 @@ msgstr "Powtarzanie co %s w %s do %s"
 #: ../src/component/component-recurrence-rule.vala:855
 #, c-format
 msgid "Repeats every %s on %s until %s, %s"
-msgstr "Powtarzanie co %s w %s do %s, %s"
+msgstr "Powtarzanie co %s w %s do %s, %s"
 
 #. As in, "Repeats every week on Monday, Wednesday, Friday"
 #. As in, "Repeats every month on day 5"
@@ -907,31 +903,31 @@ msgstr "Powtarzanie co %s w %s do %s, %s"
 #: ../src/component/component-recurrence-rule.vala:862
 #, c-format
 msgid "Repeats every %s on %s"
-msgstr "Powtarzanie co %s w %s"
+msgstr "Powtarzanie co %s w %s"
 
 #. As in, "Repeats every month on the first Tuesday, 3 times"
 #: ../src/component/component-recurrence-rule.vala:764
 #, c-format
 msgid "Repeats every %s on the %s, %s"
-msgstr "Powtarzanie co %s w %s, %s"
+msgstr "Powtarzanie co %s w %s, %s"
 
 #. As in, "Repeats every month on the second Monday until Sept. 2, 2014"
 #: ../src/component/component-recurrence-rule.vala:771
 #, c-format
 msgid "Repeats every %s on the %s until %s"
-msgstr "Powtarzanie co %s w %s do %s"
+msgstr "Powtarzanie co %s w %s do %s"
 
 #. As in, "Repeats every month on the last Friday until Sept. 2, 2014, 8:00pm"
 #: ../src/component/component-recurrence-rule.vala:778
 #, c-format
 msgid "Repeats every %s on the %s until %s, %s"
-msgstr "Powtarzanie co %s w %s do %s, %s"
+msgstr "Powtarzanie co %s w %s do %s, %s"
 
 #. As in, "Repeats every month on the third Tuesday"
 #: ../src/component/component-recurrence-rule.vala:785
 #, c-format
 msgid "Repeats every %s on the %s"
-msgstr "Powtarzanie co %s w %s"
+msgstr "Powtarzanie co %s w %s"
 
 #. As in, "Repeats on day 4 of the month"
 #: ../src/component/component-recurrence-rule.vala:800
@@ -1049,12 +1045,12 @@ msgstr "Zaktualizowane zaproszenie: %s"
 #: ../src/event-editor/event-editor-main-card.vala:506
 #, c-format
 msgid "Invitation: %s at %s"
-msgstr "Zaproszenie: %s w %s"
+msgstr "Zaproszenie: %s w %s"
 
 #: ../src/event-editor/event-editor-main-card.vala:506
 #, c-format
 msgid "Updated invitation: %s at %s"
-msgstr "Zaktualizowane zaproszenie: %s w %s"
+msgstr "Zaktualizowane zaproszenie: %s w %s"
 
 #: ../src/event-editor/event-editor-main-card.vala:522
 #, c-format
@@ -1167,15 +1163,15 @@ msgstr "Nie można zmodyfikować wydarzenia: %s"
 
 #: ../src/host/host-quick-create-event.vala:79
 msgid "Example: Dinner at Tadich Grill 7:30pm"
-msgstr "Przykład: kolacja w Barze Mlecznym 19:30"
+msgstr "Przykład: kolacja w Barze Mlecznym 19∶30"
 
 #: ../src/host/host-quick-create-event.vala:81
 msgid "Example: Dinner at Tadich Grill"
-msgstr "Przykład: kolacja w Barze Mlecznym"
+msgstr "Przykład: kolacja w Barze Mlecznym"
 
 #: ../src/host/host-quick-create-event.vala:85
 msgid "Example: Dinner at Tadich Grill 7:30pm tomorrow"
-msgstr "Przykład: kolacja w Barze Mlecznym 19:30 jutro"
+msgstr "Przykład: kolacja w Barze Mlecznym 19∶30 jutro"
 
 #: ../src/host/host-quick-create-event.vala:99
 #, c-format
@@ -1196,7 +1192,7 @@ msgstr "_To wydarzenie"
 
 #: ../src/host/host-show-event.vala:91
 msgid "This & _Future Events"
-msgstr "To i p_rzyszłe wydarzenia"
+msgstr "To i p_rzyszłe wydarzenia"
 
 #: ../src/host/host-show-event.vala:98
 msgid "Edit event"
@@ -1282,7 +1278,7 @@ msgid ""
 "This will remove the %s local calendar from your computer.  All associated "
 "information will be deleted permanently."
 msgstr ""
-"Spowoduje to usunięcie z komputera lokalnego kalendarza %s. Wszystkie "
+"Spowoduje to usunięcie z komputera lokalnego kalendarza %s. Wszystkie "
 "powiązane informacje zostaną trwale usunięte."
 
 #: ../src/manager/manager-remove-calendar.vala:41
@@ -1291,7 +1287,7 @@ msgid ""
 "This will remove the %s network calendar from your computer.  This will not "
 "affect information stored on the server."
 msgstr ""
-"Spowoduje to usunięcie z komputera sieciowego kalendarza %s. Nie wpłynie to "
+"Spowoduje to usunięcie z komputera sieciowego kalendarza %s. Nie wpłynie to "
 "na informacje przechowywane na serwerze."
 
 #: ../src/manager/manager-remove-calendar.vala:74
@@ -1360,7 +1356,7 @@ msgstr "Nazwa użytkownika"
 msgid ""
 "If supplied, your password will be requested when calendar is first accessed"
 msgstr ""
-"Jeśli zostanie podana, to użytkownik zostanie poproszony o podanie hasła "
+"Jeśli zostanie podana, to użytkownik zostanie poproszony o podanie hasła "
 "podczas pierwszego użycia kalendarza"
 
 #: ../src/rc/activator-generic-subscribe.ui.h:9
@@ -1405,7 +1401,7 @@ msgstr "Pomo_c"
 
 #: ../src/rc/app-menu.interface.h:3
 msgid "_About"
-msgstr "_O programie"
+msgstr "_O programie"
 
 #: ../src/rc/app-menu.interface.h:4
 msgid "_Quit"
@@ -1480,7 +1476,7 @@ msgstr "Czas"
 
 #: ../src/rc/event-editor-main-card.ui.h:4
 msgid "Set the start and end time"
-msgstr "Ustawia czas rozpoczęcia i ukończenia"
+msgstr "Ustawia czas rozpoczęcia i ukończenia"
 
 #: ../src/rc/event-editor-main-card.ui.h:5
 msgid "Recurrence"
@@ -1505,7 +1501,7 @@ msgstr "_Położenie"
 
 #: ../src/rc/event-editor-main-card.ui.h:11
 msgid "Add and remove invited guests"
-msgstr "Dodaje i usuwa zaproszonych gości"
+msgstr "Dodaje i usuwa zaproszonych gości"
 
 #: ../src/rc/event-editor-recurring-card.ui.h:1
 msgid "_Repeating event"
@@ -1529,7 +1525,7 @@ msgstr "P_oczątek"
 
 #: ../src/rc/event-editor-recurring-card.ui.h:6
 msgid "_On days"
-msgstr "W _dniach"
+msgstr "W _dniach"
 
 #: ../src/rc/event-editor-recurring-card.ui.h:7
 msgid "Daily"
