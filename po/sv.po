@@ -1,23 +1,24 @@
 # Swedish translation for california.
-# Copyright (C) 2014 california's COPYRIGHT HOLDER
+# Copyright © 2014, 2017 california's COPYRIGHT HOLDER
 # This file is distributed under the same license as the california package.
 # Mattias Eriksson <snaggen@gmail.com>, 2014, 2015.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: california master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=california&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-02-17 22:14+0000\n"
-"PO-Revision-Date: 2015-03-07 18:46+0100\n"
-"Last-Translator: Mattias Eriksson <snaggen@gmail.com>\n"
+"POT-Creation-Date: 2015-09-07 19:16+0000\n"
+"PO-Revision-Date: 2017-02-10 23:36+0100\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Svenska <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: ../data/california.appdata.xml.in.h:1
 msgid "GNOME 3 calendar"
@@ -727,7 +728,7 @@ msgstr "och;eller;"
 #. For more information see https://wiki.gnome.org/Apps/California/TranslatingQuickAdd
 #: ../src/component/component.vala:153
 msgid "at;from;to;on;until;this;"
-msgstr "kl;vid;från;till;denna;på;"
+msgstr "kl;vid;från;till;den;denna;på;"
 
 #. Used by quick-add to determine if the word is a DURATION preposition (indicating a
 #. a duration of time, not a specific time).  Each word must be separated by semi-colons.
