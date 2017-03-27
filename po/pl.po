@@ -1,15 +1,15 @@
 # Polish translation for california.
-# Copyright © 2014-2016 the california authors.
+# Copyright © 2014-2017 the california authors.
 # This file is distributed under the same license as the california package.
-# Piotr Drąg <piotrdrag@gmail.com>, 2014-2016.
-# Aviary.pl <community-poland@mozilla.org>, 2014-2016.
+# Piotr Drąg <piotrdrag@gmail.com>, 2014-2017.
+# Aviary.pl <community-poland@mozilla.org>, 2014-2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: california\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-19 17:44+0200\n"
-"PO-Revision-Date: 2016-08-19 17:45+0200\n"
+"POT-Creation-Date: 2017-03-27 20:50+0200\n"
+"PO-Revision-Date: 2017-03-27 20:52+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -167,8 +167,8 @@ msgstr "O programie %s"
 #: ../src/application/california-application.vala:330
 msgid "translator-credits"
 msgstr ""
-"Piotr Drąg <piotrdrag@gmail.com>, 2014-2016\n"
-"Aviary.pl <community-poland@mozilla.org>, 2014-2016"
+"Piotr Drąg <piotrdrag@gmail.com>, 2014-2017\n"
+"Aviary.pl <community-poland@mozilla.org>, 2014-2017"
 
 #: ../src/application/california-commandline.vala:9
 msgid "[.ics FILE...]"
@@ -461,21 +461,21 @@ msgstr "%b %Y"
 #: ../src/calendar/calendar.vala:124
 #, no-c-format
 msgid "%A, %B %e, %Y"
-msgstr "%A, %e %B %Y"
+msgstr "%A, %-d %B %Y"
 
 #. A "pretty" date with no year according to locale preferences, i.e. "Monday, March 10"
 #. See http://www.cplusplus.com/reference/ctime/strftime/ for format reference
 #: ../src/calendar/calendar.vala:129
 #, no-c-format
 msgid "%A, %B %e"
-msgstr "%A, %e %B"
+msgstr "%A, %-d %B"
 
 #. A "pretty" date abbreviated according to locale preferences, i.e. "Mon, Mar 10, 2014"
 #. See http://www.cplusplus.com/reference/ctime/strftime/ for format reference
 #: ../src/calendar/calendar.vala:134
 #, no-c-format
 msgid "%a, %b %e, %Y"
-msgstr "%a, %e %b %Y"
+msgstr "%a, %-d %b %Y"
 
 #. A "pretty" date abbreviated and no year according to locale preferences, i.e.
 #. "Mon, Mar 10"
@@ -483,14 +483,14 @@ msgstr "%a, %e %b %Y"
 #: ../src/calendar/calendar.vala:140
 #, no-c-format
 msgid "%a, %b %e"
-msgstr "%a, %e %b"
+msgstr "%a, %-d %b"
 
 #. A "pretty" date with no day of week according to locale preferences, i.e. "March 10, 2014"
 #. See http://www.cplusplus.com/reference/ctime/strftime/ for format reference
 #: ../src/calendar/calendar.vala:145
 #, no-c-format
 msgid "%B %e, %Y"
-msgstr "%e %B %Y"
+msgstr "%-d %B %Y"
 
 #. A "pretty" date abbreviated with no day of week according to locale preferences,
 #. i.e. "Mar 10, 2014"
@@ -498,14 +498,14 @@ msgstr "%e %B %Y"
 #: ../src/calendar/calendar.vala:151
 #, no-c-format
 msgid "%b %e, %Y"
-msgstr "%e %b %Y"
+msgstr "%-d %b %Y"
 
 #. A "pretty" date with no day of week or year according to locale preferences, i.e. "March 10"
 #. See http://www.cplusplus.com/reference/ctime/strftime/ for format reference
 #: ../src/calendar/calendar.vala:156
 #, no-c-format
 msgid "%B %e"
-msgstr "%e %B"
+msgstr "%-d %B"
 
 #. A "pretty" date abbreviated with no day of week or year according to locale preferences,
 #. i.e. "Mar 10"
@@ -513,7 +513,7 @@ msgstr "%e %B"
 #: ../src/calendar/calendar.vala:162
 #, no-c-format
 msgid "%b %e"
-msgstr "%e %b"
+msgstr "%-d %b"
 
 #. A "pretty" date compacted according to locale preferences, i.e. "Mon 3/10/2014"
 #. Leading zeroes will be stripped.
@@ -529,7 +529,7 @@ msgstr "%a, %x"
 #: ../src/calendar/calendar.vala:174
 #, no-c-format
 msgid "%a %m/%d"
-msgstr "%a, %d.%m"
+msgstr "%a, %-d.%m"
 
 #. A "pretty" date abbreviated with no day of week or year according to locale preferences,
 #. i.e. "3/10"
@@ -538,7 +538,7 @@ msgstr "%a, %d.%m"
 #: ../src/calendar/calendar.vala:181
 #, no-c-format
 msgid "%m/%d"
-msgstr "%d.%m"
+msgstr "%-d.%m"
 
 #. Ante meridiem
 #. (Please translate even if 24-hour clock used in your locale; this allows for GNOME time
@@ -574,7 +574,7 @@ msgstr "P"
 #: ../src/calendar/calendar.vala:206
 #, c-format
 msgid "%d:%02d%s"
-msgstr "%d∶%02d %s"
+msgstr "%d∶%02d %s"
 
 #. The 12-hour time with minute, seconds, and meridiem ("am" or "pm"), i.e. "5:06:31pm"
 #. (Please translate even if 24-hour clock used in your locale; this allows for GNOME time
@@ -582,7 +582,7 @@ msgstr "%d∶%02d %s"
 #: ../src/calendar/calendar.vala:211
 #, c-format
 msgid "%d:%02d:%02d%s"
-msgstr "%d∶%02d∶%02d %s"
+msgstr "%d∶%02d∶%02d %s"
 
 #. The 24-hour time with minutes, i.e. "17:06"
 #: ../src/calendar/calendar.vala:214
@@ -674,14 +674,14 @@ msgstr "rok;lata;lat;"
 #. For more information see https://wiki.gnome.org/Apps/California/TranslatingQuickAdd
 #: ../src/component/component.vala:116
 msgid "month;months;mo;mos;"
-msgstr "miesiąc;miesiące;miesięcy;"
+msgstr "miesiąc;miesiące;miesięcy;mies;"
 
 #. Used by quick-add to convert a user's week unit into an internal value.  Common abbreviations
 #. (without punctuation) should be included.  Each word must be separated by semi-colons.
 #. For more information see https://wiki.gnome.org/Apps/California/TranslatingQuickAdd
 #: ../src/component/component.vala:121
 msgid "week;weeks;wk;weeks;"
-msgstr "tydzień;tygodnie;tygodni;"
+msgstr "tydzień;tygodnie;tygodni;tyg;"
 
 #. Used by quick-add to convert a user's day unit into an internal value.  Common abbreviations
 #. (without punctuation) should be included.  Each word must be separated by semi-colons.
@@ -695,7 +695,7 @@ msgstr "dzień;dni;"
 #. For more information see https://wiki.gnome.org/Apps/California/TranslatingQuickAdd
 #: ../src/component/component.vala:131
 msgid "hour;hours;hr;hrs"
-msgstr "godzina;godziny;godzin;g;h;"
+msgstr "godzina;godziny;godzin;godz;g;h;"
 
 #. Used by quick-add to convert a user's minute unit into an internal value.  Common abbreviations
 #. (without punctuation) should be included.  Each word must be separated by semi-colons.
@@ -1310,7 +1310,7 @@ msgstr "Cały dzień"
 #: ../src/view/agenda/agenda-load-more-row.vala:38
 #, c-format
 msgid "Showing events until %s"
-msgstr "Wyświetlanie wydarzeń do: %s"
+msgstr "Wyświetlanie wydarzeń do %s"
 
 #. *
 #. * @inheritDoc
