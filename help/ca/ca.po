@@ -988,7 +988,7 @@ msgid ""
 "box</em> next to the calendar that you want to see."
 msgstr ""
 "Per fer que un calendari sigui visible de nou, feu els mateixos passos, però "
-"<em>marqueu el quadre de verificació<em> del costat del calendari que voleu veure."
+"<em>marqueu el quadre de verificació</em> del costat del calendari que voleu veure."
 
 #. (itstool) path: p/gui
 #: C/cal-open-calendar-list.xml:2
