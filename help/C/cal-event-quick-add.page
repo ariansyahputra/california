@@ -2,7 +2,7 @@
       xmlns:its="http://www.w3.org/2005/11/its"
       xmlns:ui="http://projectmallard.org/ui/1.0/"
       xmlns:e="http://projectmallard.org/experimental/"
-      type="guide" style="task" version="1.0 ui/1.0"
+      type="guide" style="task"
       id="cal-event-quick-add">
 
   <info>
